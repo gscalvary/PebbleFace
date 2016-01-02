@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Olive",
+    "longName": "Sparse_Watch_Face",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Sparse_Watch_Face",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "040c159a-4bcc-4553-9c0b-698f681ba5d3",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
